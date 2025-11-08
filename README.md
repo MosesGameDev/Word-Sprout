@@ -54,17 +54,3 @@ Major patterns used:
 
 ---
 
-**Setup:**  
-Install dependencies via:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the game with:
-
-```bash
-python src/main.py
-```
-
-For more details, see the full documentation in `/docs`.
