@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 130c6f784cbc800439be1ba674dccdaf, type: 3}
+  m_Name: Word Level SO 7A
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  levelID: 
+  letters:
+  - B
+  - E
+  - A
+  - N
+  - Y
+  words:
+  - word: BEAN
+    isRequired: 1
+    score: 1
+    letters:
+    - letter: B
+      gridCoords: {x: 2, y: 3}
+    - letter: E
+      gridCoords: {x: 2, y: 4}
+    - letter: A
+      gridCoords: {x: 2, y: 5}
+    - letter: N
+      gridCoords: {x: 2, y: 6}
+  - word: BAY
+    isRequired: 1
+    score: 1
+    letters:
+    - letter: B
+      gridCoords: {x: 3, y: 5}
+    - letter: A
+      gridCoords: {x: 2, y: 5}
+    - letter: Y
+      gridCoords: {x: 1, y: 5}
+  - word: MAY
+    isRequired: 0
+    score: 1
+    letters:
+    - letter: M
+      gridCoords: {x: 99, y: 99}
+    - letter: A
+      gridCoords: {x: 99, y: 99}
+    - letter: Y
+      gridCoords: {x: 99, y: 99}
+  - word: BYE
+    isRequired: 1
+    score: 1
+    letters:
+    - letter: B
+      gridCoords: {x: 2, y: 3}
+    - letter: Y
+      gridCoords: {x: 1, y: 3}
+    - letter: E
+      gridCoords: {x: 0, y: 3}
+  - word: BANE
+    isRequired: 0
+    score: 1
+    letters:
+    - letter: B
+      gridCoords: {x: 99, y: 99}
+    - letter: A
+      gridCoords: {x: 99, y: 99}
+    - letter: N
+      gridCoords: {x: 99, y: 99}
+    - letter: E
+      gridCoords: {x: 99, y: 99}
+  - word: BAN
+    isRequired: 0
+    score: 1
+    letters:
+    - letter: B
+      gridCoords: {x: 99, y: 99}
+    - letter: A
+      gridCoords: {x: 99, y: 99}
+    - letter: N
+      gridCoords: {x: 99, y: 99}

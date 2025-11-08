@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 130c6f784cbc800439be1ba674dccdaf, type: 3}
+  m_Name: Word Level SO 4A
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  levelID: 
+  letters:
+  - W
+  - A
+  - L
+  - L
+  keyword: All
+  endLevelLine: "All growth depends upon activity\u2026"
+  words:
+  - word: LAW
+    isRequired: 1
+    score: 1
+    letters:
+    - letter: L
+      gridCoords: {x: 4, y: 1}
+    - letter: A
+      gridCoords: {x: 3, y: 1}
+    - letter: W
+      gridCoords: {x: 2, y: 1}
+  - word: ALL
+    isRequired: 1
+    score: 1
+    letters:
+    - letter: A
+      gridCoords: {x: 4, y: 3}
+    - letter: L
+      gridCoords: {x: 3, y: 3}
+    - letter: L
+      gridCoords: {x: 2, y: 3}
+  - word: WALL
+    isRequired: 1
+    score: 1
+    letters:
+    - letter: W
+      gridCoords: {x: 2, y: 1}
+    - letter: A
+      gridCoords: {x: 2, y: 2}
+    - letter: L
+      gridCoords: {x: 2, y: 3}
+    - letter: L
+      gridCoords: {x: 2, y: 4}
+  - word: AWL
+    isRequired: 0
+    score: 1
+    letters:
+    - letter: T
+      gridCoords: {x: 99, y: 99}
+    - letter: A
+      gridCoords: {x: 99, y: 99}
+    - letter: B
+      gridCoords: {x: 99, y: 99}

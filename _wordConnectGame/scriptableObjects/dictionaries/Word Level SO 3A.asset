@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 130c6f784cbc800439be1ba674dccdaf, type: 3}
+  m_Name: Word Level SO 3A
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  levelID: 
+  letters:
+  - W
+  - O
+  - N
+  keyword: won
+  endLevelLine: Be ashamed to die until you have won some victory
+  words:
+  - word: WON
+    isRequired: 1
+    score: 1
+    letters:
+    - letter: W
+      gridCoords: {x: 4, y: 2}
+    - letter: O
+      gridCoords: {x: 4, y: 3}
+    - letter: N
+      gridCoords: {x: 4, y: 4}
+  - word: NOW
+    isRequired: 1
+    score: 1
+    letters:
+    - letter: N
+      gridCoords: {x: 4, y: 4}
+    - letter: O
+      gridCoords: {x: 3, y: 4}
+    - letter: W
+      gridCoords: {x: 2, y: 4}
+  - word: OWN
+    isRequired: 1
+    score: 1
+    letters:
+    - letter: O
+      gridCoords: {x: 2, y: 3}
+    - letter: W
+      gridCoords: {x: 2, y: 4}
+    - letter: N
+      gridCoords: {x: 2, y: 5}
+  - word: NO
+    isRequired: 0
+    score: 1
+    letters:
+    - letter: N
+      gridCoords: {x: 99, y: 99}
+    - letter: O
+      gridCoords: {x: 99, y: 99}
+  - word: ON
+    isRequired: 0
+    score: 1
+    letters: []
