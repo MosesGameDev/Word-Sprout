@@ -1,5 +1,6 @@
 # wordPuzzleGame
 
+Click on image to play video
 
 [![Watch the video](https://img.youtube.com/vi/mFrQAlS25lE/hqdefault.jpg)](https://youtube.com/shorts/mFrQAlS25lE)
 
