@@ -1,5 +1,8 @@
 # wordPuzzleGame
 
+
+[Watch the video on YouTube](https://youtube.com/shorts/mFrQAlS25lE)
+
 ## Project Structure
 
 The repository is organized to promote clarity and maintainability:
