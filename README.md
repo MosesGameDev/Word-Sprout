@@ -1,7 +1,8 @@
 # wordPuzzleGame
 
 
-[Watch the video on YouTube](https://youtube.com/shorts/mFrQAlS25lE)
+[![Watch the video](https://img.youtube.com/vi/mFrQAlS25lE/hqdefault.jpg)](https://youtube.com/shorts/mFrQAlS25lE)
+
 
 ## Project Structure
 
